@@ -139,8 +139,8 @@ footer {
 .profile-picture {
     width: 325px; /* Adjust the size of the profile picture as needed */
     height: 325px; /* Adjust the size of the profile picture as needed */
-    max-width: 100%; /* Ensure the image does not exceed the specified width */
-    max-height: 100%; /* Ensure the image does not exceed the specified height */
+    max-width: 325px; /* Ensure the image does not exceed the specified width */
+    max-height: 325px; /* Ensure the image does not exceed the specified height */
     object-fit: cover; /* Maintain aspect ratio and cover the container */
     border-radius: 50%; /* Circular shape */
     margin-left: 20px; /* Adjust the spacing between the picture and text */
